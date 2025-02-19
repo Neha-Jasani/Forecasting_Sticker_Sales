@@ -1,4 +1,4 @@
-# Forecasting_Sticker_Sales
+# Forecasting Sticker Sales
 
 ## Overview
 
